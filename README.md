@@ -9,15 +9,20 @@ The solution was written on dotnet core version 2.1.701, IDE used Visual Studio 
       ProductVersion:	10.14.6
       BuildVersion:	18G87 
 
-Before you start please make sure the workstation has git client and dotnet core version 2.1.701 installed.
+Before you start please make sure the workstation has git client and at least dotnet core version 2.1.701 installed.
 
 Also please perform the following task using command prompt.
 
 1. Create a folder on your local workstation.
-2. Go to the newly created folder and clone the repo (git clone git@github.com:syedtakbar/Coding-Challenge.git)
-3. Make sure there are two folders, maze-api and maze-client.
+2. Go to the newly created folder and clone the repo (git clone https://github.com/syedtakbar/Coding-Challenge.git)
+3. Make sure there are two folders under Coding-Challeng folder, maze-api and maze-client.
 4. Go to maze-api using cd command and execute dotnet run
-5. Make sure the API server is running
-6. Go to the maze-client folder using cd command and execute dotnet run
-7. Please make sure the command screen showing the solved solution correctly.
-8. All challenge files are located on maze-client folder, please feel free to change those files and re-run maze-client.
+5. Please make sure the maze-api server is running... it should start listening on: http://localhost:8080
+6. Now open up a new command prompt
+7. Go to the maze-client folder using cd command and execute dotnet run
+8. Please make sure the command screen showing the solved solution correctly.
+9. All challenge files are located on maze-client folder, please feel free to change those files and re-run maze-client by executing dotnet run
+
+You may capture stdout from maze-client by executing command dotnet run | tee output.file
+
+
