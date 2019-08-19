@@ -1,0 +1,14 @@
+/Users/sakbar/Documents/Development/Coding-Challenge/maze-api/bin/Debug/netcoreapp2.1/maze-api.deps.json
+/Users/sakbar/Documents/Development/Coding-Challenge/maze-api/bin/Debug/netcoreapp2.1/maze-api.runtimeconfig.json
+/Users/sakbar/Documents/Development/Coding-Challenge/maze-api/bin/Debug/netcoreapp2.1/maze-api.runtimeconfig.dev.json
+/Users/sakbar/Documents/Development/Coding-Challenge/maze-api/bin/Debug/netcoreapp2.1/maze-api.dll
+/Users/sakbar/Documents/Development/Coding-Challenge/maze-api/bin/Debug/netcoreapp2.1/maze-api.pdb
+/Users/sakbar/Documents/Development/Coding-Challenge/maze-api/obj/Debug/netcoreapp2.1/maze-api.csprojAssemblyReference.cache
+/Users/sakbar/Documents/Development/Coding-Challenge/maze-api/obj/Debug/netcoreapp2.1/maze-api.csproj.CoreCompileInputs.cache
+/Users/sakbar/Documents/Development/Coding-Challenge/maze-api/obj/Debug/netcoreapp2.1/maze-api.RazorAssemblyInfo.cache
+/Users/sakbar/Documents/Development/Coding-Challenge/maze-api/obj/Debug/netcoreapp2.1/maze-api.RazorAssemblyInfo.cs
+/Users/sakbar/Documents/Development/Coding-Challenge/maze-api/obj/Debug/netcoreapp2.1/maze-api.AssemblyInfoInputs.cache
+/Users/sakbar/Documents/Development/Coding-Challenge/maze-api/obj/Debug/netcoreapp2.1/maze-api.AssemblyInfo.cs
+/Users/sakbar/Documents/Development/Coding-Challenge/maze-api/obj/Debug/netcoreapp2.1/maze-api.RazorTargetAssemblyInfo.cache
+/Users/sakbar/Documents/Development/Coding-Challenge/maze-api/obj/Debug/netcoreapp2.1/maze-api.dll
+/Users/sakbar/Documents/Development/Coding-Challenge/maze-api/obj/Debug/netcoreapp2.1/maze-api.pdb
