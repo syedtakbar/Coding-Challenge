@@ -3,13 +3,13 @@
 This repo contain couple of projects that provide the solution for the coding challenge.
 In order to review and test the solution, please follow the instructions below.
 
-The solution was written on dotnet core version 2.1.701, IDE used Visual Studio Code version 1.37 and workstation used.
+The solution was written on dotnet core version 2.1.701, IDE used Visual Studio Code version 1.37 and following OS 
 
       ProductName:	Mac OS X
       ProductVersion:	10.14.6
       BuildVersion:	18G87 
 
-Before you start please make sure the workstation has git client and at least dotnet core version 2.1.701 installed.
+Before you start please make sure your workstation has git client and atleast dotnet core version 2.1.701 is installed.
 
 Also please perform the following task using command prompt.
 
