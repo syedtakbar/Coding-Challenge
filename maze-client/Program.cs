@@ -15,12 +15,12 @@ namespace maze_api_caller
     {
         static void Main()
         {
-            foreach(var mazeFile in MazeChallance())
+            foreach(var mazeFile in MazeChallengeFiles())
                 ExecuteAction(mazeFile, new HttpClient(),PostFile);
         }
 
 
-        private static IEnumerable<string> MazeChallance()
+        private static IEnumerable<string> MazeChallengeFiles()
         {
             yield return "maze1.txt";
             yield return "maze2.txt";
@@ -41,11 +41,6 @@ namespace maze_api_caller
         }
 
     }
-
-    public class MazeSolution {
-        public int steps { get; set; }
-        public int solution { get; set; }
-    } 
 
     public class ConsumeMazeAPI {
 
